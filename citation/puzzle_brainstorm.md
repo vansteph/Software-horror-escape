@@ -27,3 +27,5 @@
 
 ## Puzzle Ideas:
 - quiz around authorship for software, who deserves to be cited in what order?
+
+## Key to get / Final puzzle piece

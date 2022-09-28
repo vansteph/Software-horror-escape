@@ -17,3 +17,6 @@
 - complete string for DOI? 
 - multiple choice of what you get?
 - multiple choice (with pictures?): What to submit to the publisher? Like the Zenodo URL - concept DOI - version DOI - link to the zip
+
+## Key to get / Final puzzle piece
+- 
